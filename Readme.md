@@ -19,7 +19,7 @@ It also includes a Documentation file explaining all implementations and compari
 To compile the project, you will need a C compiler with OpenMP support (such as `gcc`). Clone the repository and use the provided `compilar` file to build the project:
 
 ```sh
-git clone ...
+git clone https://github.com/AlejandroCarmonaM/OpenMP_mulmat.git
 cd OpenMP-Matmul
 ./compilar <program-name>
 ```
